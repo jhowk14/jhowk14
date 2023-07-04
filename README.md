@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jonathan+Henrique;I'm+from+Brazil;I+Developer+Full-Stack+Junior;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhowk14&bg_color=0d1117&color=4B0082&line=4B0082&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhowk14&bg_color=E0E0E0&color=4B0082&line=4B0082&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhowk14&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=4B0082&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowk14&layout=compact&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhowk14&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=4B0082&bg_color=E0E0E0" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowk14&layout=compact&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=E0E0E0" />
 </div>
 
 <div align="center"> 
